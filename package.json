@@ -1,0 +1,11 @@
+{
+  "name": "paintswap-testing",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "devDependencies": {
+    "@playwright/test": "^1.24.2"
+  }
+}
